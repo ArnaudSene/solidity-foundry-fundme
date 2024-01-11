@@ -15,3 +15,6 @@ docs/
 
 # smnapshot
 .gas-snapshot
+
+broadcast/
+lib/
